@@ -1,1 +1,2 @@
 # PathikApp
+![Logo](/PATHIC.png)
