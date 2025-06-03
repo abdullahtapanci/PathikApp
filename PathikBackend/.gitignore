@@ -1,0 +1,17 @@
+# Java build output
+/target/
+/bin/
+
+# Maven wrapper files
+.mvn/
+/.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+
+# IDE folders (IntelliJ IDEA)
+/.idea/
+/*.iml
+
+# Others
+*.class
