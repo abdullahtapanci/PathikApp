@@ -17,9 +17,7 @@ import java.util.List;
 @Service
 public class PlaceServiceImpl implements PlaceServiceInterface {
 
-    //private String APIKey = "95078CD7075246288042463827FB3747";
-    private String APIKey = "5B144F209EFA45139A78684FD6FBFA47";
-    //private String APIKey = "06F6D6D31B884529A7068CDEABDDCD50";
+    private String APIKey = "UseYourApiKey";
 
     @Autowired
     private RestTemplate restTemplate;

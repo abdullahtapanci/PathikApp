@@ -18,7 +18,7 @@ import java.util.function.Function;
 @Service
 public class JWTService {
 
-    private static final String SECRET = "Mr2i9pc1pvVMQSWWMI0Gdpt4OdobHMEnEgQ1Zvcs6wY=";
+    private static final String SECRET = "WriteYourOwnSecretKey";
 
     public String generateToken(String email) {
         Map<String, Object> claims = new HashMap<>();

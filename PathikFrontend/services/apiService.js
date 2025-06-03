@@ -1,6 +1,6 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
-export const BASE_URL = "http://192.168.93.180:8080"; //use local ip here
+export const BASE_URL = "http://useYourIP:8080"; //use local ip here
 
 const getRequestHeaders = async () => {
   const headers = {
